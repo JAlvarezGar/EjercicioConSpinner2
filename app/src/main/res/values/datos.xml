@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listacompra">
+        <item>pan</item>
+        <item>leche</item>
+        <item>macarrones</item>
+        <item>cebolla</item>
+        <item>zanahoria</item>
+    </string-array>
+</resources>
